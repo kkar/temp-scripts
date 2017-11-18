@@ -1,3 +1,2 @@
 # temp-scripts
-nothing special
-test
+Some scripts to play with.
